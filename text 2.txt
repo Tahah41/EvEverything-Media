@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EvEverything Media</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>EvEverything Media</h1>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About Us</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section id="home">
+    <div class="container">
+      <h2>Welcome to EvEverything Media</h2>
+      <p>We are a results-driven marketing agency dedicated to helping brands connect, engage, and grow. Through innovative strategies and expert execution, we deliver impactful solutions across digital, social, and traditional platforms. Explore our portfolio to see how we drive success for our clients.</p>
+    </div>
+  </section>
+
+  <section id="about">
+    <div class="container">
+      <h2>About Us</h2>
+      <p><strong>EvEverything Media</strong> was founded in December 2023. In just one year, we have achieved remarkable growth by empowering local small businesses through high-quality, professional marketing services.</p>
+      <p>Our founder and CEO was inspired to start EvEverything Media as a young person, witnessing his father struggle to attract customers and lose money in his small business. Driven to make a difference, he dedicated himself to learning marketing, eventually helping his father's business experience exponential growth.</p>
+      <p>Our mission is to empower businesses with personalized marketing strategies that deliver real results.</p>
+    </div>
+  </section>
+
+  <section id="services">
+    <div class="container">
+      <h2>Our Services</h2>
+      <ul>
+        <li><strong>Marketing:</strong> Innovative strategies to grow your brand.</li>
+        <li><strong>Websites:</strong> Stunning, functional websites tailored to your business.</li>
+        <li><strong>Personalized Strategies:</strong> Unique plans to dominate the market.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p>Email: everythingmedia@gmail.com</p>
+      <p>Instagram: @EvEverythingMedia</p>
+      <p>Facebook: @EvEverythingMedia</p>
+      <p>Phone: +353 899440189, +353 874479472</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 EvEverything Media. All Rights Reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
